@@ -123,6 +123,5 @@ The task focuses on learning Verilog HDL and RTL design concepts by implementing
 
 ## Author
 Nagireddy Manoj Sai Krishna
-Nalabothu Sai Srinivasa Ganesh
 
 VLSI Intern
